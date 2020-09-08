@@ -52,3 +52,5 @@ Mkfile.old
 dkms.conf
 
 blink_on_atom/sdkconfig
+
+blink_on_atom/sdkconfig.old
