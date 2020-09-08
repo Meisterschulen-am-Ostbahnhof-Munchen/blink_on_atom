@@ -17,7 +17,7 @@ static const char *TAG = "example";
 
 #define RMT_TX_CHANNEL RMT_CHANNEL_0
 
-#define EXAMPLE_CHASE_SPEED_MS (10)
+#define EXAMPLE_CHASE_SPEED_MS (100)
 
 /**
  * @brief Simple helper function, converting HSV color space to RGB color space
